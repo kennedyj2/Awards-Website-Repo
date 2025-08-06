@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "Award Website",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Award Website"
+	}
+}
