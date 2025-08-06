@@ -12,7 +12,7 @@ A sleek, responsive website designed to showcase Zentry, its characters, and rec
 
 ## 🔗 Installation & Access
 Access the live website here:  
-👉 awardswebsite.netlify.app
+👉 (awardswebsite.netlify.app)
 
 ---
 
